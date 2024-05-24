@@ -81,6 +81,7 @@
        "SESSION": {
             "description": "Your MD session",
             "required": true
+	    "value":"" 
              
         }
     },
